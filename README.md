@@ -25,4 +25,4 @@ I'm Dan - a budding software engineer 🚀, currently learning the ropes at the 
 - Learning spanish with duolingo, currently at a 552 day streak
 
 💬 **Connect with me:**
-- [LinkedIn](https://uk.linkedin.com/in/danash-mahmood-1366b1201) 💼
+- [LinkedIn](https://uk.linkedin.com/in/danash-mahmood)💼
