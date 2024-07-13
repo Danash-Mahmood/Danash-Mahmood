@@ -1,16 +1,28 @@
-## Hi there 👋
+### Hi there! 👋
 
-<!--
-**Danash-Mahmood/Danash-Mahmood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Dan - a budding software engineer 🚀, currently learning the ropes at the Bright Network Software Engineering Bootcamp 🧑‍💻.
 
-Here are some ideas to get you started:
+🌱 **What I'm learning:**
+- Full-stack development 🖥️
+- JavaScript, Java, React and Spring! 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 **What I'm working on:**
+- Personal projects 🎨
+- Bootcamp Labs 📚
+- Group projects
+
+🔧 **Tools & Technologies:**
+- Languages: JavaScript, Java, HTML, CSS, Python and SQL (basic)
+- Frameworks: React, Spring
+- Tools: Git, GitHub, VS Code, Intellij
+
+🌟 **My Goals:**
+- Consolidate fudamentals and reach an intermediate level in all the languages I currently have exposure with
+- Build cool projects 💡
+
+**Hobbies
+- Casual rapid chess player, current rating 1200
+- Learning spanish with duolingo, currently at a 552 day streak
+
+💬 **Connect with me:**
+- [LinkedIn](https://uk.linkedin.com/in/danash-mahmood-1366b1201) 💼
