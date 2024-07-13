@@ -20,7 +20,7 @@ I'm Dan - a budding software engineer 🚀, currently learning the ropes at the 
 - Consolidate fudamentals and reach an intermediate level in all the languages I currently have exposure with
 - Build cool projects 💡
 
-**Hobbies
+**Hobbies**
 - Casual rapid chess player, current rating 1200
 - Learning spanish with duolingo, currently at a 552 day streak
 
