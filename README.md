@@ -1,12 +1,12 @@
 ### Hi there! 👋
 
-I'm Dan - a budding software engineer 🚀, currently learning the ropes at the Bright Network Software Engineering Bootcamp 🧑‍💻.
+I'm Dan - a budding software engineer 🚀, recently attended the Bright Network Software Engineering Bootcamp 🧑‍💻.
 
-🌱 **What I'm learning:**
+🌱 **What I learned:**
 - Full-stack development 🖥️
 - JavaScript, Java, React and Spring! 💻
 
-💡 **What I'm working on:**
+💡 **What I worked on:**
 - Personal projects 🎨
 - Bootcamp Labs 📚
 - Group projects
@@ -15,6 +15,11 @@ I'm Dan - a budding software engineer 🚀, currently learning the ropes at the 
 - Languages: JavaScript, Java, HTML, CSS, Python and SQL (basic)
 - Frameworks: React, Spring
 - Tools: Git, GitHub, VS Code, Intellij
+
+**What I'm currently doing**
+-Working as a software developer at an AI start up
+-Primarily focusing on the web app and its associated back end 
+-Using FlutterFlow and Firebase
 
 🌟 **My Goals:**
 - Consolidate fudamentals and reach an intermediate level in all the languages I currently have exposure with
