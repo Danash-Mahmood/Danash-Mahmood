@@ -16,7 +16,7 @@ I'm Dan - a budding software engineer 🚀, recently attended the Bright Network
 - Frameworks: React, Spring
 - Tools: Git, GitHub, VS Code, Intellij
 
-**What I'm currently doing**
+**What I'm currently doing:**
 - Working as a software developer at an AI start up
 - Primarily focusing on the web app (FlutterFlow) and its associated back end (Firebase)
 
