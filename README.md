@@ -17,9 +17,8 @@ I'm Dan - a budding software engineer 🚀, recently attended the Bright Network
 - Tools: Git, GitHub, VS Code, Intellij
 
 **What I'm currently doing**
--Working as a software developer at an AI start up
--Primarily focusing on the web app and its associated back end 
--Using FlutterFlow and Firebase
+- Working as a software developer at an AI start up
+- Primarily focusing on the web app (FlutterFlow) and its associated back end (Firebase)
 
 🌟 **My Goals:**
 - Consolidate fudamentals and reach an intermediate level in all the languages I currently have exposure with
