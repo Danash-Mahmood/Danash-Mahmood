@@ -12,7 +12,7 @@ I'm Dan - a budding software engineer 🚀, recently attended the Bright Network
 - Group projects
 
 🔧 **Tools & Technologies:**
-- Languages: JavaScript, Java, HTML, CSS, Python and SQL (basic)
+- Languages: JavaScript, Java, HTML, CSS, Python and SQL 
 - Frameworks: React, Spring
 - Tools: Git, GitHub, VS Code, Intellij
 
